@@ -1,0 +1,16 @@
+{
+  "name": "exs.gdrive",
+  "version": "1.0.0",
+  "description": "Google drive api test",
+  "main": "index.js",
+  "scripts": {
+    "test": "node test.js"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "@google-cloud/local-auth": "2.1.0",
+    "googleapis": "105",
+    "lodash": "^4.17.21"
+  }
+}

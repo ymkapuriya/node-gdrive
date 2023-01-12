@@ -1,0 +1,4 @@
+UPDATE test
+SET
+    remote_url = 'https://drive.google.com/file/d/0B1N9snDSA9nIUGZ4Mm5yZDV4d25ycV9kS1ZfbTJ2LWJlTWF3/view?resourcekey=0-hB5YQUlSyqwpNQn-8CLtlg'
+WHERE remote_url = 'https://drive.google.com/open?id=0B1N9snDSA9nIUGZ4Mm5yZDV4d25ycV9kS1ZfbTJ2LWJlTWF3'
